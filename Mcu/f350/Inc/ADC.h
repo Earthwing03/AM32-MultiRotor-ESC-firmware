@@ -1,10 +1,3 @@
-/*
- * ADC.h
- *
- *  Created on: May 20, 2020
- *      Author: Alka
- */
-
 #include "main.h"
 #include "targets.h"
 
