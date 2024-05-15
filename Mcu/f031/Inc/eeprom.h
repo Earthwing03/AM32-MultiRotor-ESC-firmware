@@ -1,9 +1,3 @@
-/*
- * bootloader.h
- *
- *  Created on: Mar. 25, 2020
- *      Author: Alka
- */
 #include "main.h"
 #ifndef INC_EEPROM_H_
 #define INC_EEPROM_H_

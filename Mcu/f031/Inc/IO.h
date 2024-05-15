@@ -1,10 +1,3 @@
-/*
- * IO.h
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
 #ifndef IO_H_
 #define IO_H_
 
