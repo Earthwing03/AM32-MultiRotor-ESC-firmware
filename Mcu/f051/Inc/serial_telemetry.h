@@ -1,11 +1,3 @@
-/*
- * serial_telemetry.h
- *
- *  Created on: May 13, 2020
- *      Author: Alka
- */
-
-
 #include "main.h"
 
 #ifndef SERIAL_TELEMETRY_H_

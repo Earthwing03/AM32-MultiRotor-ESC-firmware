@@ -1,9 +1,3 @@
-/*
- * ADC.c
- *
- *  Created on: May 20, 2020
- *      Author: Alka
- */
 #include "ADC.h"
 
 #ifdef USE_ADC_INPUT
