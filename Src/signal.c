@@ -1,10 +1,3 @@
-/*
- * IO.c
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
 #include "targets.h"
 #include "signal.h"
 #include  "IO.h"

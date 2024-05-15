@@ -1,10 +1,3 @@
-/*
- * dshot.c
- *
- *  Created on: Apr. 22, 2020
- *      Author: Alka
- */
-
 #include "functions.h"
 #include "dshot.h"
 #include "targets.h"

@@ -1,10 +1,3 @@
-/*
- * functions.c
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
 #include "functions.h"
 #include "targets.h"
 

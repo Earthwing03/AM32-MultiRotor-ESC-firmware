@@ -1,10 +1,3 @@
-/*
- * functions.h
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
 #ifndef FUNCTIONS_H_
 #define FUNCTIONS_H_
 

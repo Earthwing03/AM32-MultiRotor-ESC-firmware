@@ -1,9 +1,3 @@
-/*
- * phaseouts.c
- *
- *  Created on: Apr 22, 2020
- *      Author: Alka
- */
 #include "phaseouts.h"
 #include "targets.h"
 

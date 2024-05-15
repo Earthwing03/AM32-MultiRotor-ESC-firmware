@@ -1,10 +1,3 @@
-/*
- * dshot.h
- *
- *  Created on: Apr. 22, 2020
- *      Author: Alka
- */
-
 #include "main.h"
 
 #ifndef INC_DSHOT_H_

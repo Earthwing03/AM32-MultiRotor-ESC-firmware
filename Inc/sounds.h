@@ -1,10 +1,3 @@
-/*
- * sounds.h
- *
- *  Created on: May 13, 2020
- *      Author: Alka
- */
-
 #ifndef SOUNDS_H_
 #define SOUNDS_H_
 

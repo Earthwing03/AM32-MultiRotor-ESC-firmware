@@ -1,11 +1,3 @@
-///*
-// * crsf.c
-// *
-// *  Created on: Jun 27, 2023
-// *      Author: alkaz
-// */
-// crc code from https://github.com/stepinside/Arduino-CRSF/tree/main
-//
 #include "crsf.h"
 #include "targets.h"
 #include "common.h"

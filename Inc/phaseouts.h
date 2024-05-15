@@ -1,10 +1,3 @@
-/*
- * phaseouts.h
- *
- *  Created on: Apr 22, 2020
- *      Author: Alka
- */
-
 #ifndef INC_PHASEOUTS_H_
 #define INC_PHASEOUTS_H_
 

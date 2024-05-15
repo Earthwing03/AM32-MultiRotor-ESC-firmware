@@ -1,10 +1,3 @@
-/*
- * sounds.c
- *
- *  Created on: May 13, 2020
- *      Author: Alka
- */
-
 #include "sounds.h"
 #include "phaseouts.h"
 #include "functions.h"
