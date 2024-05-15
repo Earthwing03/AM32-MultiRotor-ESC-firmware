@@ -1,10 +1,3 @@
-///*
-// * WS2812.c
-// *
-// *  Created on: Sep 9, 2020
-// *      Author: Alka
-// */
-//
 //#include "WS2812.h"
 //
 //char dma_busy;

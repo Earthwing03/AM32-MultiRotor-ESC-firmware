@@ -1,10 +1,3 @@
-///*
-// * comparator.c
-// *
-// *  Created on: Sep. 26, 2020
-// *      Author: Alka
-// */
-//
 //#include "comparator.h"
 //#include "targets.h"
 //

@@ -1,10 +1,3 @@
-/*
- * WS2812.h
- *
- *  Created on: Sep 9, 2020
- *      Author: Alka
- */
-
 #ifndef INC_WS2812_H_
 #define INC_WS2812_H_
 

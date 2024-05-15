@@ -1,10 +1,3 @@
-/*
- * peripherals.h
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
 #ifndef PERIPHERALS_H_
 #define PERIPHERALS_H_
 

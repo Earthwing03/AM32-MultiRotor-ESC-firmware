@@ -1,11 +1,3 @@
-/*
- * peripherals.c
- *
- *  Created on: Sep. 26, 2020
- *      Author: Alka
- */
-
-
 // PERIPHERAL SETUP
 
 #include "peripherals.h"

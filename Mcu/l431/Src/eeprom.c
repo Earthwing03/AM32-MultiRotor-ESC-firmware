@@ -1,11 +1,3 @@
-/*
- * bootloader.c
- *
- *  Created on: Mar. 25, 2020
- *      Author: Alka
- *
- */
-
 #include "eeprom.h"
 #include <string.h>
 
